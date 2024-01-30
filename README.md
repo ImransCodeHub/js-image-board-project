@@ -2,6 +2,11 @@
 
 This project is a web application for creating and browsing an image board. It allows users to search for images based on tags, view individual images with associated tags and comments, and post new images with tags.
 
+## Image Board Demo
+
+https://github.com/ImransCodeHub/js-image-board-project/assets/97769980/d3a81131-f833-415f-b9ed-3fff6575db6d
+
+
 ### Features
 
 - Search for images based on tags
